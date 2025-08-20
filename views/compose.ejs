@@ -1,0 +1,9 @@
+<%-include("partials/header.ejs")%>
+
+<form action="/compose" method="POST" class="row p-5 m-5 align-items-center">
+    <input type="text" name="title" placeholder="Post Title" style="min-height: 75px;" required><br><br>
+    <textarea name="content" rows="6" cols="40" placeholder="Write your post here..." style="min-height: 400px;" required></textarea><br><br>
+    <button type="submit" style="background-color: rgb(255, 229, 189); min-height: 75px; font-size: 20px; font-weight: 700; color: navy;">Publish</button>
+</form>
+
+<%-include("partials/footer.ejs")%>

@@ -1,0 +1,11 @@
+.btn-navy {
+    border: 1px solid navy;
+    color: navy;
+    background-color: transparent;
+    transition: all 0.3s ease;
+}
+
+.btn-navy:hover {
+    background-color: navy;
+    color: white;
+}

@@ -22,19 +22,3 @@ Deployed on [Render](https://blog-app-jm7l.onrender.com).
 - **Deployment:** Render
 
 ---
-
-## 📂 Project Structure
-
-blog-app/
-│── views/ # EJS templates
-│ ├── partials/ # Header & footer
-│ ├── index.ejs # Homepage (all posts)
-│ ├── show.ejs # Single post page
-│ ├── edit.ejs # Edit post form
-│ └── new.ejs # Create post form
-│
-│── public/ # Static files (CSS, JS)
-│── server.js # Main Express app
-│── package.json
-
----

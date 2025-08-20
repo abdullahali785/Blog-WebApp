@@ -4,7 +4,7 @@ import path from "path";
 import methodOverride from "method-override";
 
 const app = express();
-const port = 3000;
+const port = process.env.port || 3000;
 
 app.set("view engine", "ejs");
 app.use(methodOverride("_method"));

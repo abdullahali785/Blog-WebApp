@@ -24,13 +24,13 @@ Deployed on [Render](https://blog-app-jm7l.onrender.com).
 ---
 
 ## Home Page
-![Home](Assets/Home.png?raw=True)
+![Home](public/Home.png?raw=True)
 
 ## Publish a Blog
-![Publish](Assets/Publish.png?raw=True)
+![Publish](public/Publish.png?raw=True)
 
 ## Edit
-![Edit](Assets/Edit.png?raw=True)
+![Edit](public/Edit.png?raw=True)
 
 ## More Options
-![Delete](Assets/Delete.png?raw=True)
+![Delete](public/Delete.png?raw=True)

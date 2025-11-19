@@ -22,3 +22,15 @@ Deployed on [Render](https://blog-app-jm7l.onrender.com).
 - **Deployment:** Render
 
 ---
+
+## Home Page
+![Home](Assets/Home.png?raw=True)
+
+## Publish a Blog
+![Publish](Assets/Publish.png?raw=True)
+
+## Edit
+![Edit](Assets/Edit.png?raw=True)
+
+## More Options
+![Delete](Assets/Delete.png?raw=True)
